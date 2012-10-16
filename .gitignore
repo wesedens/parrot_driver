@@ -1,0 +1,11 @@
+*.o
+*.ko
+*.cmd
+*.mod.c
+
+# Generated module files
+*.symvers
+*.order
+
+# Package Files #
+*.jar
